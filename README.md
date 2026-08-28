@@ -23,4 +23,4 @@ This will print `Hello, World!` to the console.
 python -m unittest test_greet.py
 ```
 
-Contributions are welcome! This repo is meant for practicing your first pull reqeust.
+Contributions are welcome! This repo is meant for practicing your first pull request.
